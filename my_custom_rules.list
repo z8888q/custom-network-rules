@@ -1,0 +1,17 @@
+# Custom Rules
+
+DOMAIN,chat.openai.com
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,creaders.net
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,bad.news
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,storm.mg
+DOMAIN-SUFFIX,ltn.com.tw
+DOMAIN-SUFFIX,blocktempo.com
+DOMAIN-SUFFIX,chinadigitaltimes.net
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,archive.ubuntu.com
+DOMAIN-SUFFIX,ubuntu.com
