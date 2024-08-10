@@ -3,9 +3,11 @@
 DOMAIN,chat.openai.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,creaders.net
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,bad.news
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,.news
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,storm.mg
 DOMAIN-SUFFIX,ltn.com.tw
